@@ -3,6 +3,7 @@
 }
 nav{
     margin-top: 20px;
+    border-bottom: #ccc 2px solid;
 }
 ul{
     display: flex;
@@ -16,6 +17,8 @@ ul li{
 
 img{
     width: 500px;
+    border-bottom: #ccc 2px solid;
+    border-top: #ccc 2px solid;
 }
 div{
     display: flex;
